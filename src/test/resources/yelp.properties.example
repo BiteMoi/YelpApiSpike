@@ -1,0 +1,11 @@
+# This example file shows the properties needed to
+# connect to the yelp API. Access to version 2 of
+# the yelp API can be obtained by signing up at
+# http://www.yelp.com/developers followed by
+# requesing API keys at
+# http://www.yelp.com/developers/getting_started/api_access
+#
+#consumer.key=
+#consumer.secret=
+#token.key=
+#token.secret=
